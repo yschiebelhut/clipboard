@@ -3,7 +3,7 @@ module golang.design/x/clipboard
 go 1.17
 
 require (
-	golang.org/x/image v0.19.0
+	golang.org/x/image v0.21.0
 	golang.org/x/mobile v0.0.0-20240806205939-81131f6468ab
 )
 
